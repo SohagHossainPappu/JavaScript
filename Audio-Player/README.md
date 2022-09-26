@@ -12,7 +12,8 @@
 </ul>
   
 ### 🎨PREVIEW 
-<img src="img/" height="400" width="1200"/>
+<img src="img/Audio.png" height="400" width="1000"/>
 
  <h3>🔗🔗Live Preview</h3>
- [SECOND WEB](https://sohaghossainpappu.github.io/third_web/)
+ 
+ <a href="https://sohaghossainpappu.github.io/JavaScript/Audio-Player/">Audio-Player</a>
